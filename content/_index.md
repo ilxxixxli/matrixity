@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Prediction the Future Beyond Calculation
+      text: We make more efficient decisions using matrix.
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: "/blog/"
         icon: rocket-launch
       secondary_action:
         text: Read the docs
-        url: https://docs.hugoblox.com
+        url: "/blog/"
       announcement:
-        text: "Announcing the release of version 1."
+        text: "If you wanna know about us"
         link:
           text: "Read more"
           url: "/blog/"
