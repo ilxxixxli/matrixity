@@ -29,7 +29,7 @@ sections:
         margin: [0, 0, 0, 0]
       css_class: "dark"
       background:
-        color: "black"
+        color: "navy"
         image:
           filename: bg-triangles.svg
           filters:
@@ -50,7 +50,7 @@ sections:
             Strategy elements  
             for city management
     design:
-      css_class: "bg-gray-800"
+      css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: features
@@ -60,7 +60,7 @@ sections:
       text: Dream big, build bigger 🏙️
       items:
         - name: Immersive City Building
-          icon: cityscape
+          icon: city
           description: Dive into a fully digital city experience where every building and decision counts.
         - name: Real-Time Strategy
           icon: clock
@@ -104,7 +104,7 @@ sections:
             text: Join Community
             url: https://discord.gg/matrixity
     design:
-      css_class: "bg-gray-900"
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
     content:
       title: ""
